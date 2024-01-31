@@ -15,5 +15,5 @@ pysimplegui
 
 Интерфейс программы:
 <p align="center">
- <img width="200px" src="123.png" alt="qr"/>
+ <img width="2000px" src="123.png" alt="qr"/>
 </p>
