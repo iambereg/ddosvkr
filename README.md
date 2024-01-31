@@ -14,4 +14,6 @@ pysimplegui
 Алгоритм обучения: случайный лес.
 
 Интерфейс программы:
-![Image alt](https://github.com/iambereg/ddosvkr/raw/ddosvkr/123.png)
+<p align="center">
+ <img width="200px" src="123.png" alt="qr"/>
+</p>
